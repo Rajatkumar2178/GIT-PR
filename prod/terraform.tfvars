@@ -9,11 +9,7 @@ kk = {
     location = "central india"
      
   }
-    r3= {
-  name              = "ramu"
-    location = "central india"
 }
-
 kk1={
     r1={
         name="frontend-Vnet"
